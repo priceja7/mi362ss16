@@ -1,0 +1,19 @@
+h1 {
+    color: darkblue;
+}
+
+body {
+    background: lavender;
+}
+
+img {
+    border: solid 1pt black;
+}
+
+#web {
+    font-size: 2em;
+}
+
+div {
+    width: 500px;
+}
