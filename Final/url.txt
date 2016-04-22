@@ -1,0 +1,4 @@
+****All Connected******
+jpricefinal.ignorelist.com/easy.php
+jpricefinal.ignorelist.com/medium.php
+jpricefinal.ignorelist.com/hard.php
