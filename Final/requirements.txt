@@ -1,0 +1,20 @@
+100/100 Hosted on Heroku 'self explanatory'
+100/100 Custom Domain Name 'used freedns.org'
+?/100 Instructor Discretionary 
+600/600 Custom Programming (JS/PHP) 'built from scratch tic tac toe game with AI!'
+50/50 Two Custom Images 'winning and losing scroll images with accumlating scores written in hash marks'
+50/50 JavaScript Component 'Jquery'
+
+---------------------
+
+1000/1000 Project Complete
+
+Did some custom css as well
+?/200 Some Custom CSS
+
+I built a tic tac toe game with 3 modes of diffulty from scratch. The easy level, the computer just guesses
+a random empty spot on the board. The medium level, builds off of the previous move of the computer. The hard mode, 
+not only builds off of itself, but it prevents the user from winning, as well as some algorithms to make the computer
+even harder to beat, see if you can beat it! First one to 10 wins!!!!
+
+Once board is full or winner of the current board is done, hit 'clear board' in the bottom left corner. 
